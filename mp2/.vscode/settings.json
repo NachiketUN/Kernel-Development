@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "kernel.C": "cpp",
+        "simple_frame_pool.C": "cpp",
+        "cont_frame_pool.C": "cpp"
+    }
+}
